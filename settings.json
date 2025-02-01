@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": [
+        "InventoryManagement"
+    ],
+    "java.project.referencedLibraries": [
+        "InventoryManagement\\lib\\javafx-swt.jar",
+        "InventoryManagement\\lib\\javafx.web.jar",
+        "InventoryManagement\\lib\\javafx.swing.jar",
+        "InventoryManagement\\lib\\javafx.media.jar",
+        "InventoryManagement\\lib\\javafx.graphics.jar",
+        "InventoryManagement\\lib\\javafx.fxml.jar",
+        "InventoryManagement\\lib\\javafx.controls.jar",
+        "InventoryManagement\\lib\\javafx.base.jar"
+    ]
+}
